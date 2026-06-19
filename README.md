@@ -6,7 +6,7 @@ My name is Giovanni (or Gio for short), I'm a Computer Science student based in 
 
 I primarily work on Data Science and Full-Stack projects.
 
-This is a new profile where I'll be uploading projects, experiemnts, and things I'm currently working on. Everything here is built from scratch.
+This is a new profile where I'll be uploading projects, experiments, and things I'm currently working on. Everything here is built from scratch.
 
 ## What I'm Working On 🚀
 
